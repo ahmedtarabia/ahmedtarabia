@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tarabia</h1>
-<h3 align="center">A passionate full-stack web development engineer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 💬 Ask me about **JavaScript, Node.js and React.js**
 
